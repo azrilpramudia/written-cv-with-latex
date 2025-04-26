@@ -1,7 +1,6 @@
 # My Personal CV with LaTeX
 
-This is my personal CV built using LaTeX.  
-The project is modular and organized for easy maintenance, updates, and scalability.
+This is my personal CV built using LaTeX.
 
 ---
 
@@ -32,26 +31,8 @@ The project is modular and organized for easy maintenance, updates, and scalabil
 - 📚 **Modular Structure**: Each CV section is separated into its own `.tex` file.
 - 🎨 **Minimalist Design**: Clean and professional layout.
 - ⚡ **Easy to Update**: Quickly edit specific sections without touching the full document.
-- 🛠️ **Flexible**: Easily add new sections like `projects.tex`, `awards.tex`, etc.
-
----
-
-## Future Improvements
-
-- Add a project portfolio section.
-- Create an alternative design using `moderncv` or `awesome-cv`.
-- Improve visual styling (fonts, colors, dividers).
-
----
 
 ## License
 
 This project is for personal use.  
 Feel free to fork or adapt it for your own CV!
-
----
-
-## Author
-
-- **Azril Pramudia Anugrah**  
-- [LinkedIn](https://linkedin.com/in/azril-pramudia-anugrah) | [Portfolio](https://meowdev.vercel.app)
