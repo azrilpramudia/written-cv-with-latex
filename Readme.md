@@ -1,14 +1,8 @@
 # My Personal CV with LaTeX
 
-This is my personal CV built using LaTeX.
+**This is my personal CV built using LaTeX.**
 
 ---
-
-## Project Structure
-
-
----
-
 ## How to Compile
 
 1. Make sure you have a LaTeX distribution installed:
